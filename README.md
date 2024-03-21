@@ -1,1 +1,1 @@
-this contains the solution of the exercise given the book Object Oriented Programming in c++ by Robert Lafore
+This contains the solution of the exercises given in the book, Object Oriented Programming in c++ by Robert Lafore
